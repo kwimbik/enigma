@@ -1,0 +1,194 @@
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\EnigmaII\EnigmaII\obj\Debug\EnigmaII.pdb
+D:\EnigmaII\EnigmaII\bin\Debug\EnigmaII.exe.config
+D:\EnigmaII\EnigmaII\bin\Debug\EnigmaII.exe
+D:\EnigmaII\EnigmaII\bin\Debug\EnigmaII.pdb
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+D:\EnigmaII\EnigmaII\obj\Debug\MainWindow.g.cs
+D:\EnigmaII\EnigmaII\obj\Debug\App.g.cs
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+D:\EnigmaII\EnigmaII\obj\Debug\MainWindow.baml
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.g.resources
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.exe
+D:\EnigmaII\EnigmaII\obj\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.pdb
+D:\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.exe.config
+D:\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.exe
+D:\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.pdb
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+D:\Enigma-1.1\EnigmaII\obj\Debug\MainWindow.g.cs
+D:\Enigma-1.1\EnigmaII\obj\Debug\App.g.cs
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+D:\Enigma-1.1\EnigmaII\obj\Debug\MainWindow.baml
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.g.resources
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.exe
+D:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.pdb
+E:\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.exe.config
+E:\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.exe
+E:\Enigma-1.1\EnigmaII\bin\Debug\EnigmaII.pdb
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+E:\Enigma-1.1\EnigmaII\obj\Debug\MainWindow.g.cs
+E:\Enigma-1.1\EnigmaII\obj\Debug\App.g.cs
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+E:\Enigma-1.1\EnigmaII\obj\Debug\MainWindow.baml
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.g.resources
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.exe
+E:\Enigma-1.1\EnigmaII\obj\Debug\EnigmaII.pdb
+E:\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+E:\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+E:\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+E:\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+E:\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+E:\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+E:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
+E:\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+E:\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+D:\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+D:\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+D:\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+D:\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+D:\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+D:\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+D:\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+D:\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+D:\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\ZALOHA-9.3\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\Programování\Maturita\Enigma-workspace\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\zalohy\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe.config
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\bin\Debug\EnigmaII.pdb
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csprojAssemblyReference.cache
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.g.cs
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.g.cs
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\App.g.cs
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.cache
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII_MarkupCompile.lref
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\MainWindow.baml
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\ScramblerMaps.baml
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.g.resources
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.Properties.Resources.resources
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.GenerateResource.cache
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.csproj.CoreCompileInputs.cache
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.exe
+C:\Users\Kwimbik\Desktop\ZALOHAV-22.3 - kopie\Enigma-2.0\EnigmaII\obj\Debug\EnigmaII.pdb
